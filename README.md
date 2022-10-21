@@ -24,5 +24,7 @@
 ***
 - Регистрация (create_user.php)
 ***
-![](https://raw.githubusercontent.com/Argoleed/HTTP_auth/main/user_interface.png)
+![](https://github.com/Argoleed/HTTP_auth/blob/main/registration.png?raw=true)
+***
+- Авторизация (authorization.php)
 ***
