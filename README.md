@@ -28,3 +28,5 @@
 ***
 - Авторизация (authorization.php)
 ***
+![](https://github.com/Argoleed/HTTP_auth/blob/main/authorization.png?raw=true)
+***
