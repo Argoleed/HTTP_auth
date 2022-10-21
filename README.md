@@ -23,3 +23,6 @@
 #### 3. Алгоритмы
 ***
 - Регистрация (create_user.php)
+***
+![](https://raw.githubusercontent.com/Argoleed/HTTP_auth/main/user_interface.png)
+***
