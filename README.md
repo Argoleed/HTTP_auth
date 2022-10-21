@@ -6,7 +6,7 @@
 ***
 #### 1. Пользовательский интерфейс
 ---
-![](https://raw.githubusercontent.com/Argoleed/HTTP_auth/main/user_inteface.png)
+![](https://raw.githubusercontent.com/Argoleed/HTTP_auth/main/user_interface.png)
 ***
 ***
 #### 2. Структура базы данных
