@@ -32,3 +32,8 @@
 ***
 - Восстановление пароля через почту (send_mail.php)
 ***
+![](https://github.com/Argoleed/HTTP_auth/blob/main/send_mail.png?raw=true)
+***
+- Изменение пароля из профиля (password_change.php)
+***
+![]()
