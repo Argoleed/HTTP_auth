@@ -30,3 +30,5 @@
 ***
 ![](https://github.com/Argoleed/HTTP_auth/blob/main/authorization.png?raw=true)
 ***
+- Восстановление пароля через почту (send_mail.php)
+***
