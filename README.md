@@ -45,3 +45,5 @@
 ![](https://github.com/Argoleed/HTTP_auth/blob/main/API_2.png?raw=true)
 ***
 ***
+#### 5. Пользовательские сценарии работы
+***
